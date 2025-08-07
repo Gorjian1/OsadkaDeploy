@@ -1,3 +1,3 @@
 # OsadkaDeploy
 
-[⬇️ Скачать последнюю версию (setup.exe)](https://YOUR-GH-USER.github.io/MyApp-Deploy/clickonce/setup.exe)
+[⬇️ Скачать последнюю версию (setup.exe)](https://gorjian1.github.io/OsadkaDeploy//setup.exe)
